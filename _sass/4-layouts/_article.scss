@@ -26,8 +26,8 @@
   background-color: $gray-white;
   margin-top: 10px;
   @media (max-width: $mobile) {
-  width: 100px;
-  height: 75px;
+  width: 65px;
+  height: 65px;
   margin-top: 0px;
   }
 }
@@ -59,7 +59,7 @@
   color: $gray-dark;
   @media (max-width: $mobile) {
   font-size: 9px;
-  line-height: 0px;
+  line-height: 10px;
   }
 }
 
