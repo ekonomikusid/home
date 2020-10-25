@@ -14,8 +14,8 @@
 
 .article__image {
   display: block;
-  width: 120px;
-  height: 120px;
+  width: 110px;
+  height: 110px;
   border-radius: 4%;
   background-position: center;
   background-size: cover;
@@ -24,7 +24,8 @@
   margin-top: 10px;
   @media (max-width: $mobile) {
   width: 100px;
-  height: 100px;
+  height: 80px;
+  margin-top: 0px;
   }
 }
 
@@ -40,8 +41,8 @@
     }
   }
   @media (max-width: $mobile) {
-  font-size: 15px;
-  line-height: 17px;
+  a {font-size: 15px;
+    line-height: 17px;}
   }
 }
 
