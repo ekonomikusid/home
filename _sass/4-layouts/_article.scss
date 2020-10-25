@@ -59,7 +59,7 @@
   color: $gray-dark;
   @media (max-width: $mobile) {
   font-size: 9px;
-  line-height: 10px;
+  line-height: 15px;
   }
 }
 
@@ -86,6 +86,6 @@
 
 @media (max-width: $mobile) {
   h2 {
-  line-height: 15px;
+  line-height: 25px;
   }
 }
