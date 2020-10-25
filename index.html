@@ -21,7 +21,7 @@ layout: default
 <div class="container">
   {% if site.posts.size > 0 %}
     {% for post in site.posts %}
-    <div class="article" data-aos="fade-right" data-aos-easing="ease-out-quad" data-aos-duration="500">
+    <div class="article" data-aos="fade-right" data-aos-easing="ease-out-quad" data-aos-duration="750">
       {% if post.image %}
       <div class="article__image-box">
         <a href="{{post.url | prepend: site.baseurl}}" class="article__image" style="background-image: url({{site.baseurl}}{{post.image}})"></a>
