@@ -74,11 +74,13 @@
 }
 
 .excerptmobile {
-  @media (max-width: $mobile) {
-  margin-bottom: 15px;
-  font-size: 10px;
-  line-height: 15px;
-  color: $gray;
+  display: none;
+  @media only screen
+    and (min-device-width : 320px)
+    and (max-device-width : 480px)  {
+      font-size: 12px;
+      line-height: 20px;
+      color: $gray;
   }
 }
 
