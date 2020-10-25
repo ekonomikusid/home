@@ -22,7 +22,8 @@
   background-repeat: no-repeat;
   background-color: $gray-white;
   @media (max-width: $mobile) {
-  max-width: 25%;
+  width: 120px;
+  height: 65px;
   }
 }
 
@@ -37,6 +38,9 @@
       color: $primary-color;
     }
   }
+  @media (max-width: $mobile) {
+  font-size: 20px;
+  }
 }
 
 .article__meta {
@@ -46,6 +50,9 @@
   line-height: 20px;
   text-transform: uppercase;
   color: $gray-dark;
+  @media (max-width: $mobile) {
+  font-size: 9px;
+  }
 }
 
 .article__excerpt {
