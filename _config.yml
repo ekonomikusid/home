@@ -1,4 +1,4 @@
-title: InvesBlog - portal investasi terasik di Indonesia
+title: InvesClub - Portal investasi terkece di Indonesia
 logo:  # you can add own logo.
 description: Passionate designer curating designs for new startups  and  founders  and crafts  beautiful user interfaces with love.
 baseurl: "/" # the subpath of your site, e.g. /blog
@@ -7,10 +7,10 @@ url: "https://inves.club/home" # the base hostname & protocol for your site, e.g
 
 # Author Settings
 author:
-  name: InvesBlog
+  name: InvesClub
   image: '/assets/img/01.jpg'
-  job: portal investasi terasik di Indonesia
-  bio: Passionate investor di Indonesia, tapi kadang jadi trader juga :(
+  job: InvesClub
+  bio: Jadikan lima menitmu lebih bermakna bersama InvesClub
   email: forexample@website.com
 
 
