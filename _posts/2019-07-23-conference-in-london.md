@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Dear my friend, this is how long title looks like at your website
+title:  Dear my friend, this is how long title looks like
 date:   2019-07-24 14:50:35 +0300
 image:  '/assets/img/07.jpg'
 tags:   [travel, london, work, blog]
