@@ -8,7 +8,7 @@ url: "https://inves.club/home" # the base hostname & protocol for your site, e.g
 # Author Settings
 author:
   name: InvesClub
-  image: '/assets/img/home.jpg'
+  image: '/assets/img/homebanner.jpg'
   job: InvesClub
   bio: Pahami berita investasi terkini dalam 3 menit. Gratis!
   email: forexample@website.com
