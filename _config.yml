@@ -1,5 +1,5 @@
 title: InvesClub - Portal investasi Indonesia
-logo:  '/assets/img/invesclub.png' # you can add own logo.
+logo:  "/home/assets/img/invesclub.png" # you can add own logo.
 description: Pahami berita investasi terkini dalam 3 menit. Gratis!
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://inves.club/home" # the base hostname & protocol for your site, e.g. http://example.com
