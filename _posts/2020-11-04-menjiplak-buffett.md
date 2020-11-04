@@ -10,4 +10,5 @@ Saya bisa menjiplak kebiasaan yang dilakukan Warren Buffett, seperti sarapan di 
 2.
 3.
 
+Disclaimer: saat tulisan ini dibuat, penulis sedang tidak memegang saham KO maupun MCD. Lihat [disclaimer selengkapnya...](/disclaimer)
 _Gambar burger dari [Pixabay](https://pixabay.com/vectors/hamburger-sandwich-burger-meat-295090/)._
