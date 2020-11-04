@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tentang Invesclub
-permalink: /tentang/
+permalink: /about/
 image: '/assets/img/01.jpg'
 ---
 
