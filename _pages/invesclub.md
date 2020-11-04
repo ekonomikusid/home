@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tentang Invesclub
+title: Tentang InvesClub
 permalink: /about/
 image: '/assets/img/01.jpg'
 ---
