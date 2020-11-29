@@ -3,21 +3,6 @@ layout: default
 ---
 
 <div class="container">
-  <!-- begin author -->
-  <section class="author" data-aos="fade-up" data-aos-easing="ease-out-quad" data-aos-duration="700">
-    <div class="author__inner">
-  <img src="{{site.baseurl}}{{site.author.image}}" alt="{{site.author.name}}" class="author__img">
-      <p class="author__bio">{{ site.author.bio }}</p>
-      <div class="author__more">
-        <a href="#baca" class="say-hello">Baca Artikel</a>
-        <a href="{{site.baseurl}}/about/" class="know-more">Kenalan Dulu</a>
-      </div>
-    </div>
-  </section>  
-  <div id="baca" style="margin-bottom: 75px"><p></p></div>
-  <!-- end author -->
-</div>
-<div class="container">
   {% if site.posts.size > 0 %}
     {% for post in site.posts %}
     <div class="article" data-aos="fade-right" data-aos-easing="ease-out-quad" data-aos-duration="750">
@@ -34,7 +19,7 @@ layout: default
           <span class="article__date"><time datetime="{{ post.date | date_to_xmlschema }}">{% assign date_format = site.minima.date_format | default: "%B %-d, %Y" %}{{ post.date | date: date_format }}</time></span>
         </div>
         <p class="article__excerpt">{% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | truncate: 130 }}{% endif %}</p>
-        <a href="{{ post.url | prepend: site.baseurl }}" class="read-more">Lanjut baca...</a>
+        <a href="{{ post.url | prepend: site.baseurl }}" class="read-more">Kunjungi...</a>
       </div>
     </div>
     {% endfor %}
