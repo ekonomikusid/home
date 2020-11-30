@@ -1,9 +1,12 @@
 /* Article */
 .article {
   display: flex;
-  margin-bottom: 50px;
+  background-color: #fff;
+  margin-bottom: 20px;
+  border: 1px #f5f5f5 solid;
+  border-radius: 5%;
   @media (max-width: $mobile) {
-  margin-bottom: 25px;
+  margin-bottom: 15px;
   }
 }
 
