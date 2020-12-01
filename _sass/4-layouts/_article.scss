@@ -104,6 +104,12 @@ div.gallery img {
   padding: 17px;
   border: 1px white solid;
   border-radius: 17%;
+  @media (max-width: $mobile) {
+  width: 75px;
+  height: auto;
+  padding: 5px;
+  border: 1px white solid;
+  border-radius: 17%;  }
 }
 
 .katalog {
